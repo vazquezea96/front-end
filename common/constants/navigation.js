@@ -75,9 +75,14 @@ const projectRebuild = {
   href: '/project_rebuild',
 };
 
+const scholarshipsProgram = {
+  name: 'Scholarships Program',
+  href: '/scholarships_program',
+};
+
 const servicesGroup = {
   ...services,
-  sublinks: [podcast, projectRebuild],
+  sublinks: [podcast, projectRebuild, scholarshipsProgram],
 };
 
 const aboutUsGroup = {
