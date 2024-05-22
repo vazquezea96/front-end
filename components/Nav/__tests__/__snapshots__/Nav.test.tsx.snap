@@ -24,6 +24,10 @@ exports[`Nav > should render with no props passed 1`] = `
           "name": "Project Rebuild",
         },
         {
+          "href": "/scholarships_program",
+          "name": "Scholarships Program",
+        },
+        {
           "href": "/chapters",
           "name": "Chapters",
         },
