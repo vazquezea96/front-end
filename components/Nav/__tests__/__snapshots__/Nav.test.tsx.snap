@@ -124,7 +124,7 @@ exports[`Nav > should render with no props passed 1`] = `
                 },
                 {
                   "href": "/scholarships_program",
-                  "name": "/Scholarships Program",
+                  "name": "Scholarships Program",
                 },
               ]
             }
